@@ -1,0 +1,8 @@
+D:\day 18\WebAPIExample\WebAPIExample\obj\Debug\net6.0\WebAPIExample.csproj.AssemblyReference.cache
+D:\day 18\WebAPIExample\WebAPIExample\obj\Debug\net6.0\WebAPIExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\day 18\WebAPIExample\WebAPIExample\obj\Debug\net6.0\WebAPIExample.AssemblyInfoInputs.cache
+D:\day 18\WebAPIExample\WebAPIExample\obj\Debug\net6.0\WebAPIExample.AssemblyInfo.cs
+D:\day 18\WebAPIExample\WebAPIExample\obj\Debug\net6.0\WebAPIExample.csproj.CoreCompileInputs.cache
+D:\day 18\WebAPIExample\WebAPIExample\obj\Debug\net6.0\WebAPIExample.MvcApplicationPartsAssemblyInfo.cache
+D:\day 18\WebAPIExample\WebAPIExample\obj\Debug\net6.0\WebAPIExample.RazorAssemblyInfo.cache
+D:\day 18\WebAPIExample\WebAPIExample\obj\Debug\net6.0\WebAPIExample.RazorAssemblyInfo.cs
